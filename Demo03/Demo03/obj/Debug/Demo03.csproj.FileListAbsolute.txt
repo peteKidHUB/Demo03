@@ -1,0 +1,6 @@
+Z:\Olio-ohjelmointi\Demo03\Demo03\bin\Debug\Demo03.exe.config
+Z:\Olio-ohjelmointi\Demo03\Demo03\obj\Debug\Demo03.csprojResolveAssemblyReference.cache
+Z:\Olio-ohjelmointi\Demo03\Demo03\bin\Debug\Demo03.exe
+Z:\Olio-ohjelmointi\Demo03\Demo03\bin\Debug\Demo03.pdb
+Z:\Olio-ohjelmointi\Demo03\Demo03\obj\Debug\Demo03.exe
+Z:\Olio-ohjelmointi\Demo03\Demo03\obj\Debug\Demo03.pdb
