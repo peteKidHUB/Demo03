@@ -1,0 +1,6 @@
+Z:\Olio-ohjelmointi\Demo03\Pesukone\bin\Debug\Pesukone.exe.config
+Z:\Olio-ohjelmointi\Demo03\Pesukone\bin\Debug\Pesukone.exe
+Z:\Olio-ohjelmointi\Demo03\Pesukone\bin\Debug\Pesukone.pdb
+Z:\Olio-ohjelmointi\Demo03\Pesukone\obj\Debug\Pesukone.csprojResolveAssemblyReference.cache
+Z:\Olio-ohjelmointi\Demo03\Pesukone\obj\Debug\Pesukone.exe
+Z:\Olio-ohjelmointi\Demo03\Pesukone\obj\Debug\Pesukone.pdb
